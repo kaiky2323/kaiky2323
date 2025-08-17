@@ -1,17 +1,16 @@
-Beleza! Aqui está um modelo de mensagem que você pode colocar no seu README principal do GitHub (normalmente no repositório com seu nome de usuário), para se apresentar:
 
 ⸻
 
-👋 Olá, eu sou o [Seu Nome]
+👋 Olá, eu sou o kaiky
 
 Sou estudante e apaixonado por tecnologia, sempre em busca de aprender mais sobre programação e desenvolvimento de software. 🚀
 
-Atualmente estou estudando:
+##Atualmente estou estudando:
 	•	🐍 Python
 	•	💻 Git & GitHub
 	•	📚 Fundamentos de programação
 
-✨ Objetivos
+ ##Objetivos
 	•	Evoluir como desenvolvedor
 	•	Contribuir em projetos open source
 	•	Compartilhar meu aprendizado aqui no GitHub
