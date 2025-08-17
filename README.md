@@ -19,7 +19,7 @@ Objetivos
   <a href="https://www.linkedin.com/in/kaiky-teodoro" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40px" />
   </a>
-  <a href="mailto:teodorokaiky2@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="40px" />
+  <a href="https://mail.google.com/mail/?view=cm&to=teodorokaiky2@gmail.com">
+    <img src="https://i.pinimg.com/736x/72/1a/91/721a917f7c4f78cd5e70558ceb8228d6.jpg" width="40px" />
   </a>
 </p>
