@@ -5,12 +5,12 @@
 
 Sou estudante e apaixonado por tecnologia, sempre em busca de aprender mais sobre programação e desenvolvimento de software. 🚀
 
-##Atualmente estou estudando:
+Atualmente estou estudando:
 	•	🐍 Python
 	•	💻 Git & GitHub
 	•	📚 Fundamentos de programação
 
- ##Objetivos
+Objetivos
 	•	Evoluir como desenvolvedor
 	•	Contribuir em projetos open source
 	•	Compartilhar meu aprendizado aqui no GitHub
