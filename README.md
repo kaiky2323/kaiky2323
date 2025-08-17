@@ -15,5 +15,5 @@ Objetivos
 	•	Contribuir em projetos open source
 	•	Compartilhar meu aprendizado aqui no GitHub
 
-[![](https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg)](mailto:teodorokaiky2@gmail.com)
+[![](https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg)](https://mail.google.com/mail/?view=cm&to=teodorokaiky2@gmail.com)
 ⸻
